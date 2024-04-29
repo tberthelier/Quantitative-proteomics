@@ -1485,7 +1485,7 @@ for (comparison in comparisons_to_do){
       
       if(Vol_no_lab == T){
         prtn_lbl_lst <- ""
-        lblng_mnl == TRUE
+        lblng_mnl <- TRUE
       }else if(length(Vol_labels) > 0){
         prtn_lbl_lst <- Vol_labels
         lblng_mnl <- TRUE
